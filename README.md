@@ -3440,7 +3440,9 @@ plt.show()
 
 # New Image
 
-<img src="lesson-plan-files/lesson-plan_52_0.png" align="center">
+<p align="center>
+<img src="lesson-plan-files/lesson-plan_52_0.png">
+</p>                                  
 
 
 
