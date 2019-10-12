@@ -3438,6 +3438,10 @@ plt.show()
 
 ![png](lesson-plan_files/lesson-plan_52_0.png)
 
+# New Image
+
+<img src="lesson-plan-files/lesson-plan_52_0.png" align="center">
+
 
 
 ```python
