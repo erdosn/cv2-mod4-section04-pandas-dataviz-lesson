@@ -3441,7 +3441,7 @@ plt.show()
 # New Image
 
 <p align="center>
-<img src="lesson-plan-files/lesson-plan_52_0.png">
+<img src="lesson-plan_files/lesson-plan_52_0.png"/>
 </p>                                  
 
 
